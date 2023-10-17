@@ -19,6 +19,10 @@ a {
     color: var(--text-color);
 }
 
+.visually-hidden {
+    display: none;
+}
+
 .card-category {
     color: var(--color-primary);
 }
